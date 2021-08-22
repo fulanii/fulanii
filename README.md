@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Yassine currently learning python, take a look the basic programs i have made in repositories, and help me impore i hope we can all lear from each other.
+I'm Yassine currently learning python, take a look the basic programs i have made in repositories, and help me impore i hope we can all learn from each other.
 
 
 ## About me
