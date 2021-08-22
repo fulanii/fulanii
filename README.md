@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-I'm Yassine currently learning how to code slowly, starting with pyton then i'll be learning JavaScript after i master te basic of Python.
-
+I'm Yassine currently learning python take a look the basic programs, i have made and help me impore i hope we can all lear from each other.
 
 <!--
 **fulanii/fulanii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
