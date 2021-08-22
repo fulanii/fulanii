@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+I'm Yassine currently learning how to code slowly, starting with pyton then i'll be learning JavaScript after i master te basic of Python.
+
+
 <!--
 **fulanii/fulanii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
