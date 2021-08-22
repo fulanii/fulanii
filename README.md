@@ -5,7 +5,7 @@ I'm Yassine currently learning python, take a look the basic programs i have mad
 
 ## About me
 
-i'm 18 years old currently in college studiying Computer Engineering, i'm interested in Software Development and Cyber Scurit. I like tech and been wanting to get in this field, so i started to learn how to code during the summer right after graduating High School.
+i'm 18 years old currently in college studiying Computer Engineering, i'm interested in Software Development and Cyber Security. I like tech and been wanting to get in this field, so i started to learn how to code during the summer right after graduating High School.
 
 
 ## Links
