@@ -2,6 +2,10 @@
 
 I'm Yassine currently learning python, take a look the basic programs i have made in repositories, and help me impore i hope we can all lear from each other.
 
+
+## About me
+
+i'm 18 years old currently in college studiying computer engineering 
 <!--
 **fulanii/fulanii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
