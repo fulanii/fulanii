@@ -5,18 +5,10 @@ I'm Yassine currently learning python, take a look the basic programs i have mad
 
 ## About me
 
-i'm 18 years old currently in college studiying computer engineering 
-<!--
-**fulanii/fulanii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+i'm 18 years old currently in college studiying Computer Engineering, i'm interested in Software Development and Cyber Scurit. I like tech and been wanting to get in this field, so i started to learn how to code during the summer right after graduating High School.
 
-Here are some ideas to get you started:
- 
-- 🔭 I’m currently working on .. a twiteer bot
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## Links
+
+Twitter: https://twitter.com/yassine_227
+Instagram: https://instagram.com/yassinemhk
