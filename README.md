@@ -15,7 +15,7 @@ i'm 18 years old currently in college studiying Computer Engineering, i'm intere
 
 ## Working on
 
-🔜 Currently  working on finishing [#100DaysOfCode](https://twitter.com/search?q=%23100DaysOfCode&src=typeahead_click)
+🔜 Currently  working on finishing [#100DaysOfCode](https://www.udemy.com/course/100-days-of-code/)
 
 
 ## Links
