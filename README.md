@@ -15,7 +15,7 @@ i'm 18 years old currently in college studiying Computer Engineering, i'm intere
 
 ## Working on
 
-🔜 Currently  working on finishing [#100DaysOfCode](https://www.udemy.com/course/100-days-of-code/)
+🔜 Currently  working on finishing [#100DaysOfCode](https://www.udemy.com/course/100-days-of-code/) and [#The Complete 2022 Web Development Bootcamp](https://www.udemy.com/course/the-complete-web-development-bootcamp/)
 
 
 ## Links
