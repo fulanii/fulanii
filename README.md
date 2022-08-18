@@ -22,4 +22,4 @@ i'm 19 years old currently in college studiying Computer Engineering, i'm intere
 
 Twitter: https://twitter.com/yassine_227
 
-Instagram: https://instagram.com/yassinemhk
+[Linkedln](https://www.linkedin.com/in/yassine-issoufou-7767a021a/)
