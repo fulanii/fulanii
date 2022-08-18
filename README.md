@@ -20,6 +20,6 @@ i'm 19 years old currently in college studiying Computer Engineering, i'm intere
 
 ## Links
 
-Twitter: https://twitter.com/yassine_227
+[Twitter](https://twitter.com/yassine_227)
 
 [Linkedln](https://www.linkedin.com/in/yassine-issoufou-7767a021a/)
