@@ -49,7 +49,7 @@ I'm Yassine, a cs student from Manhattan ks. im currently going to school and st
 </a> 
 
 <a href="https://www.tableau.com/" target="_blank" rel="noreferrer">
- <img> src="https://logos-world.net/wp-content/uploads/2021/10/Tableau-Logo.png" alt="tableau" width="40" height="40"/> 
+ <img> src=" " alt="tableau" width="40" height="40"/> 
 </a> 
  
  
