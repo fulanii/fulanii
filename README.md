@@ -3,8 +3,8 @@
 </h1>
 
 
-<h1 align="center">Hi 👋, I'm Yassine</h1>
-<h3 align="center">A cs student from the U.S.A</h3>
+<h1 align="center">Hi 👋, I'm Yassine, A cs student from the manhattan, ks</h1>
+<h3 align="center"></h3>
 
 - 🔭 I’m currently working on [100 days of python](https://www.udemy.com/course/100-days-of-code/)
 
