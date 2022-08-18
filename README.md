@@ -48,12 +48,6 @@ I'm Yassine, a cs student from Manhattan ks. im currently going to school and st
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
 </a> 
 
-<a href="https://www.tableau.com/" target="_blank" rel="noreferrer">
- <img> src=" " alt="tableau" width="40" height="40"/> 
-</a> 
- 
- 
-
 </p>
 
 
