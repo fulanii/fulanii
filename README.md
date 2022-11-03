@@ -3,29 +3,7 @@
 </h1>
 
 <h3>Hi there 👋</h3>
-I'm Yassine, a cs student from Manhattan ks. im currently going to school and studing Data Analytics on the side. I'm tryna get a full time remote Data Analytics role, i alredy got a couple certifications from udemy in sql, python, tableau and excel. I will be working on some projects after finishing my google Data Analytics certifications.
-
-
-
-<h3>Finished certification </h3>
-
-[The Complete SQL Bootcamp 2022: Go from Zero to Hero](https://www.udemy.com/course/the-complete-sql-bootcamp/)
-
-[The Ultimate MySQL Bootcamp: Go from SQL Beginner to Expert](https://www.udemy.com/course/the-ultimate-mysql-bootcamp-go-from-sql-beginner-to-expert/)
-
-
-<h3>I’m currently working on</h3>
-
-[100 days of python](https://www.udemy.com/course/100-days-of-code/)
-
-[Python for Data Science and Machine Learning Bootcamp](https://www.udemy.com/course/python-for-data-science-and-machine-learning-bootcamp/)
-
-<h3 align="left">Connect with me</h3>
-
-[Twitter](https://twitter.com/yassine_227)
-
-[Linkedln](https://www.linkedin.com/in/yassine-issoufou-7767a021a/)
-
+I'm Yassine
 
 
 <h3 align="left">Languages and Tools:</h3>
