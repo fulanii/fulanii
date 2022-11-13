@@ -26,7 +26,7 @@
  
     
   ### Modules & Library:
-    ```Numpy, Pandas```
+   ```Numpy, Pandas```
     
    <span> <img src="https://cdn.worldvectorlogo.com/logos/numpy-1.svg" width="30px"> </span>&nbsp;
 
