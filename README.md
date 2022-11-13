@@ -5,10 +5,10 @@
 # Hi there 👋
 <p> Welcome to my github, I'm Yassine a cs student. </p>
 
+<br>
+
 # 🛠️ My Skills
 <details>
-  <summary>More Info</summary>
-
  
   ### Programing Language & Technologies :
    ```Python3, HTML5, CSS3, Bootstrap5```
@@ -51,3 +51,7 @@
 
 </details>
 
+<br>
+
+# Let's Connect
+[<img src = "https://img.shields.io/badge/twitter-%2320A1F1.svg?&style=for-the-badge&logo=twitter&logoColor=white">](https://twitter.com/yassine_227) [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/yassine-issoufou-7767a021a/)
