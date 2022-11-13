@@ -32,9 +32,7 @@
    <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" width="30px"></span>&nbsp;
 
 
-  ### Tools:
-   ```Git, Tableau, Postman, Vscode, PyCharm, Power-Bi```
-    
+  ### Tools:    
    <span> <img src="https://img.shields.io/badge/git-%3776AB.svg?style=for-the-badge&logo=git&logoColor=white&color=F05032"></span>
    <span> <img src="https://img.shields.io/badge/tableau-%4479A1.svg?style=for-the-badge&logo=tableau&logoColor=white&color=orange"></span>
    <span> <img src="https://img.shields.io/badge/postman-%4479A1.svg?style=for-the-badge&logo=postman&logoColor=white&color=orange"> </span>
