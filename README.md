@@ -35,12 +35,12 @@
   ### Tools:
    ```Git, Tableau, Postman, Vscode, PyCharm, Power-Bi```
     
-   ![GIT](https://img.shields.io/badge/git-%3776AB.svg?style=for-the-badge&logo=git&logoColor=white&color=F05032)  
-   <span> <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" width="30px"></span>&nbsp;
-   <span> <img src="https://avatars.githubusercontent.com/u/10251060?s=200&v=4" width="30px"></span>&nbsp;
-   <span> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="30px"></span>&nbsp;
-   <span> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg" width="30px"></span>&nbsp;
-   <span> <img src= "https://cdn.worldvectorlogo.com/logos/power-bi.svg" width="30px"><span>&nbsp;
+   <span> <img src="https://img.shields.io/badge/git-%3776AB.svg?style=for-the-badge&logo=git&logoColor=white&color=F05032"></span>
+   <span> <img src="https://img.shields.io/badge/tableau-%4479A1.svg?style=for-the-badge&logo=tableau&logoColor=white&color=orange"></span>
+   <span> <img src="https://img.shields.io/badge/postman-%4479A1.svg?style=for-the-badge&logo=postman&logoColor=white&color=orange"> </span>
+   <span> <img src= "https://img.shields.io/badge/power_Bi-%4479A1.svg?style=for-the-badge&logo=power-bi&logoColor=white&color=yellow"><span>
+   <span> <img src="https://img.shields.io/badge/Vscode-%4479A1.svg?style=for-the-badge&logo=visualstudiocode&logoColor=blue&color=white"></span>
+   <span> <img src="https://img.shields.io/badge/Pycharm-%4479A1.svg?style=for-the-badge&logo=Pycharm&logoColor=black&color=gree"></span>
 
 </details>
 
