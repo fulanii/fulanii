@@ -26,7 +26,7 @@
  
     
   ### Modules & Library:
-   ```Numpy, Pandas```
+   ```Numpy, Pandas, Request, Turtle, Tkinter, Selenium Web Driver, ```
     
    <span> <img src="https://cdn.worldvectorlogo.com/logos/numpy-1.svg" width="30px"> </span>&nbsp;
 
@@ -40,7 +40,7 @@
 
 
   ### Tools I use:
-   ```Git, Tableau, Vscode, PyCharm, Power-Bi```
+   ```Git, Tableau, Postman, Vscode, PyCharm, Power-Bi```
     
    <span> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain.svg" width="30px"></span>&nbsp;
    <span> <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" width="30px"></span>&nbsp;
