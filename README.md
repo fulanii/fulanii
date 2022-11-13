@@ -10,18 +10,18 @@
  
   ### Programing Language & Technologies :
  
-   ![Python](https://img.shields.io/badge/python-%3776AB.svg?style=for-the-badge&logo=python&logoColor=white&color=3776AB) ![HTML](https://img.shields.io/badge/html5-%3776AB.svg?style=for-the-badge&logo=html5&logoColor=white&color=E34F26) ![CSS](https://img.shields.io/badge/css3-%1572B6.svg?style=for-the-badge&logo=css3&logoColor=white&color=1572B6) ![Bootstrap](https://img.shields.io/badge/bootstrap-%3776AB.svg?style=for-the-badge&logo=bootstrap&logoColor=white&color=563D7C)
-
+   ![Python](https://img.shields.io/badge/python-%3776AB.svg?style=for-the-badge&logo=python&logoColor=white&color=3776AB) ![HTML](https://img.shields.io/badge/html5-%3776AB.svg?style=for-the-badge&logo=html5&logoColor=white&color=E34F26) ![CSS](https://img.shields.io/badge/css3-%1572B6.svg?style=for-the-badge&logo=css3&logoColor=white&color=1572B6) 
   ### Frameworks:
    ```Flask```
         
-   <span> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" width="30px"></span>&nbsp;
+   <span> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" width="30px"></span>  ![Bootstrap](https://img.shields.io/badge/bootstrap-%3776AB.svg?style=for-the-badge&logo=bootstrap&logoColor=white&color=563D7C)
  
     
   ### Modules & Library:
    ```Numpy, Pandas, Request, Turtle, Tkinter, Selenium Web Driver, ```
     
-   <span> <img src="https://cdn.worldvectorlogo.com/logos/numpy-1.svg" width="30px"> </span>&nbsp;
+   <span> <img src="https://cdn.worldvectorlogo.com/logos/numpy-1.svg" width="30px"> </span> 
+
 
 
   ### Databases:
