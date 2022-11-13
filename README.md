@@ -26,9 +26,7 @@
 
   ### Databases:
  
-   ![MySQL](https://img.shields.io/badge/mysql-%4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white&color=4479A1) 
-   <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="30px"></span>&nbsp;
-   <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" width="30px"></span>&nbsp;
+   ![MySQL](https://img.shields.io/badge/mysql-%4479A1.svg?style=for-the-badge&logo=mysql&logoColor=blue&color=white) ![PostgreSQL](https://img.shields.io/badge/postgresql-%4479A1.svg?style=for-the-badge&logo=postgresql&logoColor=white&color=4479A1) ![SQLite](https://img.shields.io/badge/SQLite-%4479A1.svg?style=for-the-badge&logo=sqlite&logoColor=blue&color=white) 
 
 
   ### Tools:    
