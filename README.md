@@ -5,7 +5,7 @@
 # Hi there 👋
 <p> Welcome to my github, I'm Yassine a cs student. </p>
 
-# 🛠️ Technologies
+# 🛠️ My Skills
 <details>
   <summary>More Info</summary>
 
