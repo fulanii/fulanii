@@ -13,10 +13,10 @@
   ### Programing Language & Technologies :
    ```Python3, HTML5, CSS3, Bootstrap5```
  
-   <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="30px"></span>&nbsp;
+   <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40px"></span>&nbsp;
    <span> <img src= "https://cdn.worldvectorlogo.com/logos/html-1.svg" width="30px"><span>&nbsp;
    <span> <img src= "https://cdn.worldvectorlogo.com/logos/css-3.svg" width="30px"><span>&nbsp;
-   <span> <img src= "https://cdn.worldvectorlogo.com/logos/bootstrap-5-1.svg" width="30px"><span>&nbsp;
+   <span> <img src= "https://cdn.worldvectorlogo.com/logos/bootstrap-5-1.svg" width="40px"><span>&nbsp;
 
 
   ### Frameworks:
