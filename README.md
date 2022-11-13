@@ -19,10 +19,6 @@
     
   ### Modules & Library:
    ```Numpy, Pandas, Request, Turtle, Tkinter, Selenium Web Driver, ```
-    
-   <span> <img src="https://cdn.worldvectorlogo.com/logos/numpy-1.svg" width="30px"> </span> 
-
-
 
   ### Databases:
  
