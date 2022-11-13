@@ -5,14 +5,19 @@
 # Hi there 👋
 <p> Welcome to my github, I'm Yassine a cs student. </p>
 
-# 🛠️ Tools & Technologies
+# 🛠️ Technologies
 <details>
   <summary>More Info</summary>
 
-  ### Programing Language I use:
-  <p>Python</p>
-  <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="30px"></span>&nbsp;
-  
+  ### Programing Language & Technologies :
+  <p>Python3, HTML5, CSS3, Bootstrap5</p>
+   <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="30px"></span>&nbsp;
+   <span> <img src= "https://cdn.worldvectorlogo.com/logos/html-1.svg" width="30px"><span>&nbsp;
+   <span> <img src= "https://cdn.worldvectorlogo.com/logos/css-3.svg" width="30px"><span>&nbsp;
+   <span> <img src= "https://cdn.worldvectorlogo.com/logos/bootstrap-5-1.svg" width="30px"><span>&nbsp;
+
+
+
   ### Frameworks I use:
    <p>Flask </p> 
    <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" width="30px"></span>&nbsp;
