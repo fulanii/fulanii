@@ -19,7 +19,7 @@
    <span> <img src= "https://cdn.worldvectorlogo.com/logos/bootstrap-5-1.svg" width="30px"><span>&nbsp;
 
 
-  ### Frameworks I use:
+  ### Frameworks:
    ```Flask```
         
    <span> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" width="30px"></span>&nbsp;
@@ -31,7 +31,7 @@
    <span> <img src="https://cdn.worldvectorlogo.com/logos/numpy-1.svg" width="30px"> </span>&nbsp;
 
 
-  ### Database I use:
+  ### Databases:
    ```MySQL, PostgreSQL, SQLite```
     
    <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="30px"></span>&nbsp;
@@ -39,7 +39,7 @@
    <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" width="30px"></span>&nbsp;
 
 
-  ### Tools I use:
+  ### Tools:
    ```Git, Tableau, Postman, Vscode, PyCharm, Power-Bi```
     
    <span> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain.svg" width="30px"></span>&nbsp;
