@@ -2,16 +2,19 @@
  <img src="https://user-images.githubusercontent.com/49686277/109705521-4e6b1300-7bb1-11eb-8380-48681240721a.png" />
 </h1>
 
-# Hi there 👋
- Welcome to my github, I'm Yassine a cs student from the United States. I'm a Python and SQL developer with a big interest in 
-    - Data Analytics
-    - Data Science
-    - ML & Ai 
-    - and Backend web developement.
-    I'm currently working toward becoming a Data Analysis, I'll be using my github to post all my projects, and notes from courses and certifications i take. In addition, I've also created a discord server Feel free to join us bellow.
+### Hi there 👋
+ Welcome to my github, I'm Yassine a cs student from the United States. 
+ 
+ I'm a Python and SQL developer and currently working toward becoming a Data Analysis, I'll be using my github to post all my projects, and notes from courses and certifications I take. In addition, I've also created a discord server Feel free to join us bellow.
 
 [<img src = "https://img.shields.io/badge/Server-%2320A1F1.svg?&style=for-the-badge&logo=discord&logoColor=">](https://discord.gg/cmDChyUEXB)   
 
+### Interest 
+     Data Analytics
+     Data Science
+     ML & Ai 
+     Backend web developement.
+    
 # 🛠️ My Skills
 <details>
  
