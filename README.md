@@ -9,6 +9,7 @@
 <details>
   <summary>More Info</summary>
 
+ 
   ### Programing Language & Technologies :
    ```Python3, HTML5, CSS3, Bootstrap5```
  
@@ -18,14 +19,20 @@
    <span> <img src= "https://cdn.worldvectorlogo.com/logos/bootstrap-5-1.svg" width="30px"><span>&nbsp;
 
 
-
   ### Frameworks I use:
    ```Flask```
+        
+   <span> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" width="30px"></span>&nbsp;
+ 
     
-   <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" width="30px"></span>&nbsp;
+  ### Modules & Library:
+    ```Numpy```
+    
+    <span> <img src="https://cdn.worldvectorlogo.com/logos/numpy-1.svg" width="30px"> </span>&nbsp;
+
 
   ### Database I use:
-   <p>MySQL, PostgreSQL, SQLite </p>
+   ```MySQL, PostgreSQL, SQLite```
     
    <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="30px"></span>&nbsp;
    <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="30px"></span>&nbsp;
