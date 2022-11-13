@@ -10,7 +10,7 @@
     - and Backend web developement.
     I'm currently working toward becoming a Data Analysis, I'll be using my github to post all my projects, and notes from courses and certifications i take. In addition, I've also created a discord server Feel free to join us bellow.
 
-[<img src = "https://img.shields.io/badge/discord-%2320A1F1.svg?&style=for-the-badge&logo=discord&logoColor=">](https://discord.gg/cmDChyUEXB)   
+[<img src = "https://img.shields.io/badge/Server-%2320A1F1.svg?&style=for-the-badge&logo=discord&logoColor=">](https://discord.gg/cmDChyUEXB)   
 
 # 🛠️ My Skills
 <details>
