@@ -17,7 +17,7 @@
  
     
   ### Modules & Library:
-   ```Numpy, Pandas, Request, Turtle, Tkinter, Selenium Web Driver, ```
+   ```Numpy, Pandas, Request,Beautiful Soup 4, Turtle, Tkinter, Selenium Web Driver, ```
 
   ### Databases:
  
