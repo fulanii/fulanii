@@ -8,10 +8,10 @@
     - Data Science
     - ML & Ai 
     - and Backend web developement.
-    I'm currently working toward becoming a Data Analysis, I'll be using my github to post all my projects, and notes from courses and certifications i take. In addition, I've also created a discord server Feel free to join us 
-    
-<a href="https://discord.gg/FuuqUdfA6h" target="_blank"> <img alt="Discord" src="https://img.shields.io/discord/972397174312800256?style=plastic&logo=Discord&color=FFFFFF&logoColor=white&labelColor=7289DA"></a>
-   
+    I'm currently working toward becoming a Data Analysis, I'll be using my github to post all my projects, and notes from courses and certifications i take. In addition, I've also created a discord server Feel free to join us bellow.
+
+[<img src = "https://img.shields.io/badge/discord-%2320A1F1.svg?&style=for-the-badge&logo=discord&logoColor=">](https://discord.gg/cmDChyUEXB)   
+
 # 🛠️ My Skills
 <details>
  
