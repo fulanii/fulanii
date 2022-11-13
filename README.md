@@ -3,8 +3,15 @@
 </h1>
 
 # Hi there 👋
-<p> Welcome to my github, I'm Yassine a cs student. </p>
+ Welcome to my github, I'm Yassine a cs student from the United States. I'm a Python and SQL developer with a big interest in 
+    - Data Analytics
+    - Data Science
+    - ML & Ai 
+    - and Backend web developement.
+    I'm currently working toward becoming a Data Analysis, I'll be using my github to post all my projects, and notes from courses and certifications i take. In addition, I've also created a discord server Feel free to join us 
+<a href="https://discord.gg/tbsWAPZqf9" target="_blank"><img alt="Discord" src="https://img.shields.io/discord/840827431832780820?style=plastic&logo=Discord&color=FFFFFF&logoColor=white&labelColor=7289DA"></a>
 
+   
 # 🛠️ My Skills
 <details>
  
