@@ -25,7 +25,6 @@
 
 
   ### Databases:
-   ```MySQL, PostgreSQL, SQLite```
  
    ![MySQL](https://img.shields.io/badge/mysql-%4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white&color=4479A1) 
    <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="30px"></span>&nbsp;
