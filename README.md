@@ -10,7 +10,7 @@ I'm Yassine, a cs student from the United States. A Python and SQL developer and
 
 [<img src = "https://img.shields.io/badge/Server-%2320A1F1.svg?&style=for-the-badge&logo=discord&logoColor=">](https://discord.gg/cmDChyUEXB)   
 
-# Interest 
+# 📌 Interest 
      Data Analytics
      Data Science
      ML & Ai 
