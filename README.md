@@ -14,7 +14,7 @@ I'm Yassine, a cs student from the United States. A Python and SQL developer and
      Data Analytics
      Data Science
      ML & Ai 
-     Backend web developement.
+     Backend web developement
     
 # 🛠️ My Skills
 <details>
