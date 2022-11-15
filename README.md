@@ -31,7 +31,7 @@ I'm Yassine, a cs student from the United States. A Python and SQL developer and
    ```Numpy, Pandas, Request,Beautiful Soup 4, Turtle, Tkinter, Selenium Web Driver, ```
 
   ### Databases:
- 
+
    ![MySQL](https://img.shields.io/badge/mysql-%4479A1.svg?style=for-the-badge&logo=mysql&logoColor=blue&color=white) ![PostgreSQL](https://img.shields.io/badge/postgresql-%4479A1.svg?style=for-the-badge&logo=postgresql&logoColor=white&color=4479A1) ![SQLite](https://img.shields.io/badge/SQLite-%4479A1.svg?style=for-the-badge&logo=sqlite&logoColor=blue&color=white) 
 
 
