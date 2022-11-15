@@ -3,6 +3,7 @@
 </p>
 
 <h1 align="left">Welcome to my Github. </h1>
+
 I'm Yassine, a cs student from the United States. A Python and SQL developer and currently working toward becoming a Data Analysis, I'll be using my github to post all my projects, and notes from courses and certifications I take. In addition, I've also created a discord server Feel free to join us bellow.
 
 <br>
