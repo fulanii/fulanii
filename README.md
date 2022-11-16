@@ -17,9 +17,9 @@ I'm Yassine, a cs student from the United States. A Python and SQL developer and
      ML & Ai 
      Backend web developement
     
-# 🛠️ My Skills
+<hr>
 <details>
-    <summary>Skills</summary>
+ <summary> <h1>🛠️ My Skills</h1></summary>
 
  
   ### Programing Language & Technologies :
