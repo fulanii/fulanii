@@ -43,7 +43,7 @@ I'm Yassine, a cs student from the United States. A Python and SQL developer and
    <span> <img src= "https://img.shields.io/badge/power_Bi-%4479A1.svg?style=for-the-badge&logo=power-bi&logoColor=white&color=yellow"><span>
    <span> <img src="https://img.shields.io/badge/Vscode-%4479A1.svg?style=for-the-badge&logo=visualstudiocode&logoColor=blue&color=white"></span>
    <span> <img src="https://img.shields.io/badge/Pycharm-%4479A1.svg?style=for-the-badge&logo=Pycharm&logoColor=black&color=gree"></span>
-   <span> <img src="https://img.shields.io/badge/Excel-%4479A1.svg?style=for-the-badge&logo=Pycharm&logoColor=black&color=gree"></span>
+   <span> <img src="https://img.shields.io/badge/Excel-%4479A1.svg?style=for-the-badge&logo=MicrosoftExcel&logoColor=black&color=gree"></span>
 
 
 </details>
