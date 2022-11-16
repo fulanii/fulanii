@@ -19,9 +19,8 @@ I'm Yassine, a cs student from the United States. A Python and SQL developer and
     
 # 🛠️ My Skills
 <details>
-  <summary> 
-    <p>Skills</p>
-  </summary>
+    <summary>Check them out ⬇</summary>
+
  
   ### Programing Language & Technologies :
  
