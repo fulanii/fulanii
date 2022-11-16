@@ -7,7 +7,6 @@
 I'm Yassine, a cs student from the United States. A Python and SQL developer and currently working toward becoming a Data Analysis, I'll be using my github to post all my projects, and notes from courses and certifications I take. In addition, I've also created a discord server Feel free to join us bellow.
 
 <br>
-<br>
 
 [<img src = "https://img.shields.io/badge/Server-%2320A1F1.svg?&style=for-the-badge&logo=discord&logoColor=">](https://discord.gg/cmDChyUEXB)   
 
@@ -15,8 +14,8 @@ I'm Yassine, a cs student from the United States. A Python and SQL developer and
      Data Analytics
      Data Science
      ML & Ai 
-     Backend web developement
-    
+     Backend web developement 
+     
 <hr>
 
 <details>
