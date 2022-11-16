@@ -10,6 +10,7 @@ I'm Yassine, a cs student from the United States. A Python and SQL developer and
 
 # 📌 Interest 
      Data Analytics
+     Data Engineering
      Data Science
      ML & Ai 
      Backend web developement 
