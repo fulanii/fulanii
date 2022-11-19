@@ -29,7 +29,7 @@ I'm Yassine, a cs student from the United States. A Python and SQL developer and
  
     
   ### Modules & Library:
-   ```Numpy, Pandas, Request,Beautiful Soup 4, Turtle, Tkinter, Selenium Web Driver, ```
+   ```Numpy, Pandas, Request,Beautiful Soup 4, Turtle, Tkinter, Selenium Web Driver, matplotlib```
 
   ### Databases:
 
