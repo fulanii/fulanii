@@ -12,10 +12,11 @@ I'm Yassine, a cs student from the United States. A Python and SQL developer and
    
 # 📌 Interest 
      Data Analytics
-     Data Engineering
+     Backend web developement
      Data Science
+     Data Engineering
      ML & Ai 
-     Backend web developement 
+      
      
 ---
 
