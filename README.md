@@ -12,7 +12,7 @@ I'm Yassine, a cs student from the United States. A Python and SQL developer and
    
 
 <details>
- <summary> <h1> 🛠️ Skills </h1> </summary>
+ <summary> <h1> 🛠️ My Skills </h1> </summary>
  
   ### Programing Language & Technologies :
  
