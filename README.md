@@ -43,6 +43,8 @@ I'm Yassine, a cs student from the United States. A Python and SQL developer and
 </details>
     
 ---
+   # ⚝ Projects
+    lorem ipsum 
     
    # 📌 Interest 
     Data Analytics
