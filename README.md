@@ -44,7 +44,9 @@ I'm Yassine, a cs student from the United States. A Python and SQL developer and
     
 ---
    # ⚝ Projects
-    lorem ipsum 
+   1. [flask-auth-project](https://github.com/fulanii/flask-auth-project)
+   2. [openai-discord-project](https://github.com/fulanii/openai-project)
+   3. [rest-api-project](https://github.com/fulanii/rest-api-project)
     
    # 📌 Interest 
     Data Analytics
