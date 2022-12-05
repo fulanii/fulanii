@@ -11,8 +11,8 @@ I'm Yassine, a cs student from the United States. A Python and SQL developer and
 <hr>
    
 
-<details>
- <summary> <h1> 🛠️ My Skills </h1> </summary>
+
+<h1> 🛠️ My Skills </h1>
  
   ### Programing Language & Technologies :
  
@@ -40,7 +40,6 @@ I'm Yassine, a cs student from the United States. A Python and SQL developer and
    <span> <img src="https://img.shields.io/badge/Excel-%4479A1.svg?style=for-the-badge&logo=MicrosoftExcel&logoColor=black&color=gree"></span>
 
 
-</details>
     
 ---
    # ⚝ Projects
