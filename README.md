@@ -48,7 +48,7 @@ I'm Yassine, a computer science student from the United States. I'm currently wo
    3. [rest-api-project](https://github.com/fulanii/rest-api-project)
     
    # 📌 Interest 
-    Data Analytics
+    Data & Business Analytics
     Backend web developement
     Data Science
     Data Engineering
