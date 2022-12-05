@@ -16,7 +16,7 @@ I'm Yassine, a computer science student from the United States. I'm currently wo
  
   ### Programing Language & Technologies :
  
-   ![Python](https://img.shields.io/badge/python-%3776AB.svg?style=for-the-badge&logo=python&logoColor=white&color=3776AB) ![HTML](https://img.shields.io/badge/html5-%3776AB.svg?style=for-the-badge&logo=html5&logoColor=white&color=E34F26) ![CSS](https://img.shields.io/badge/css3-%1572B6.svg?style=for-the-badge&logo=css3&logoColor=white&color=1572B6) 
+   ![Python](https://img.shields.io/badge/python-%3776AB.svg?style=for-the-badge&logo=python&logoColor=white&color=3776AB) ![R-lang](https://img.shields.io/badge/r-%3776AB.svg?style=for-the-badge&logo=r&logoColor=white&color=3776AB) ![HTML](https://img.shields.io/badge/html5-%3776AB.svg?style=for-the-badge&logo=html5&logoColor=white&color=E34F26) ![CSS](https://img.shields.io/badge/css3-%1572B6.svg?style=for-the-badge&logo=css3&logoColor=white&color=1572B6) 
   ### Frameworks:
   
    <span> <img src="https://img.shields.io/badge/flask-%4479A1.svg?style=for-the-badge&logo=flask&logoColor=black&color=white"> </span>  <img src="https://img.shields.io/badge/bootstrap-%4479A1.svg?style=for-the-badge&logo=bootstrap&logoColor=white&color=purple">
