@@ -2,7 +2,7 @@
  <img src="https://user-images.githubusercontent.com/68094236/201511312-8e93c2c6-4110-46c3-9915-158a0958088b.gif">
 </p>
  
-I'm currently working toward becoming a Data Analysis, I'll be using my github to post all my projects, and notes from courses and certifications I take. In addition, I've also created a discord server feel free to join us bellow.
+I'm currently working toward becoming a Data Analysis, I'll be using my github to post all my projects, school computer science stuff and, notes from courses and certifications I take. In addition, I've also created a discord server feel free to join us bellow.
 
 [<img src = "https://img.shields.io/badge/Server-%2320A1F1.svg?&style=for-the-badge&logo=discord&logoColor=">](https://discord.gg/cmDChyUEXB)   
     
