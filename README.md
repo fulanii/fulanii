@@ -42,6 +42,8 @@ I'm currently working toward becoming a Data Analysis, I'll be using my github t
    1. [flask-auth-project](https://github.com/fulanii/flask-auth-project)
    2. [openai-discord-project](https://github.com/fulanii/openai-project)
    3. [rest-api-project](https://github.com/fulanii/rest-api-project)
+   4. [Rest API using FastAPI](https://github.com/fulanii/fastapi-project)
+
     
    # 📌 Interest 
     Data & Business Analytics
