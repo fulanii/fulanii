@@ -47,6 +47,7 @@
     
    # 📌 Interest 
     Data & Business Analytics
+    Software Quality Assurance & Automation
     Backend web developement
     Data Science
     Data Engineering
