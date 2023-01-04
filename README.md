@@ -21,7 +21,7 @@ I'm currently working toward becoming a Data Analysis, I'll be using my github t
  
     
   ### Modules & Library:
-   ```Numpy, Pandas, Request,Beautiful Soup 4, Turtle, Tkinter, selenium, matplotlib, scrapy```
+   ```Numpy, Pandas, Request,Beautiful Soup 4, Turtle, Tkinter, selenium web driver, matplotlib, scrapy```
 
   ### Databases:
 
