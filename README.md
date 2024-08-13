@@ -4,7 +4,6 @@
 
 #### A self taught Software Engineer, soon to be in school for Computer Science.
 
-- I use daily: `Python` & `Javascript`
 - Check out: [`About me`](https://www.yassineissoufou.com/#about-me) [`Skills`](yassineissoufou.com/#skills) & [`Projects`](yassineissoufou.com/#projects)
 - Learning FullStack Engineering, with a Backend focus.
 - Iterested in `Web Development` `Quality Assurance` & `Data related fields`
