@@ -7,8 +7,7 @@
 - Check out: [`About me`](https://www.yassineissoufou.com/#about-me) [`Skills`](https://yassineissoufou.com/#skills) [`Projects`](https://yassineissoufou.com/#projects) [`Resume`](https://yassineissoufou.com/resume)
 - Learning FullStack Engineering, with a Backend focus.
 - Iterested in `Web Development` `Quality Assurance` & `Data related fields`
-- Reach out using my socials 
-  
+    
     <a href="mailto: name@email.com">
       <img
         src="https://custom-icon-badges.demolab.com/badge/Hire Me-4c4c51?style=for-the-badge&logo=link&logoColor=white"
