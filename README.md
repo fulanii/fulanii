@@ -4,7 +4,7 @@
 
 #### A self taught Software Engineer, soon to be in school for Computer Science.
 
-- Check out: [`About me`](https://www.yassineissoufou.com/#about-me) [`Skills`](yassineissoufou.com/#skills) & [`Projects`](yassineissoufou.com/#projects)
+- Check out: [`About me`](https://www.yassineissoufou.com/#about-me) [`Skills`](yassineissoufou.com/#skills) [`Projects`](yassineissoufou.com/#projects) [`Resume`](yassineissoufou.com/resume)
 - Learning FullStack Engineering, with a Backend focus.
 - Iterested in `Web Development` `Quality Assurance` & `Data related fields`
   
