@@ -9,9 +9,6 @@
 - Learning FullStack Engineering, with a Backend focus.
 - Iterested in `Web Development` `Quality Assurance` & `Data related fields`
 
-[<img src = "https://custom-icon-badges.demolab.com/badge/Hire Me-4c4c51?style=for-the-badge&logo=link&logoColor=white">](www.yassineissoufou.com) 
-
-
  
 <!-- 
 I'm currently working toward becoming a Data Analysis, I'll be using my github to post all my projects, school computer science stuff and, notes from courses and certifications I take. In addition, I've also created a discord server feel free to join us bellow.
