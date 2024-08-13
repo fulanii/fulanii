@@ -7,6 +7,8 @@
 - Check out: [`About me`](https://www.yassineissoufou.com/#about-me) [`Skills`](yassineissoufou.com/#skills) & [`Projects`](yassineissoufou.com/#projects)
 - Learning FullStack Engineering, with a Backend focus.
 - Iterested in `Web Development` `Quality Assurance` & `Data related fields`
+  
+[<img src = "https://custom-icon-badges.demolab.com/badge/Reach Out-4c4c51?style=for-the-badge&logo=link&logoColor=white">](yassineissoufou.com) 
 
  
 <!-- 
