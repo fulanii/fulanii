@@ -2,10 +2,12 @@
  <img src="https://user-images.githubusercontent.com/68094236/201511312-8e93c2c6-4110-46c3-9915-158a0958088b.gif">
 </p>
 
-#### A self taught Software Engineer, soon to br in school for Computer Science.
+#### A self taught Software Engineer, soon to be in school for Computer Science.
 
-- ☀︎ I use daily: `.python` `.js`
-- ⚝ Check out: [`About me`](https://www.yassineissoufou.com/#about-me) [`Skills`](yassineissoufou.com/#skills) [`Projects`](yassineissoufou.com/#projects)
+- I use daily: `Python` `Javascript`
+- Check out: [`About me`](https://www.yassineissoufou.com/#about-me) [`Skills`](yassineissoufou.com/#skills) & [`Projects`](yassineissoufou.com/#projects)
+- Learning FullStack Engineering, with a Backend focus.
+- Iterested in `Web Development` `Quality Assurance` & `Data related fields`
 
 [<img src = "https://custom-icon-badges.demolab.com/badge/Hire Me -4c4c51?style=for-the-badge&logo=link&logoColor=white">](yassineissoufou.com) 
 
