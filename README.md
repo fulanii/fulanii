@@ -8,7 +8,7 @@
 - Learning FullStack Engineering, with a Backend focus.
 - Iterested in `Web Development` `Quality Assurance` & `Data related fields`
     
-    <a href="mailto: yassine@yassineissoufou.com">
+    <a href="mailto:yassine@yassineissoufou.com">
       <img src="https://custom-icon-badges.demolab.com/badge/Reach Out-4c4c51?style=for-the-badge&logo=link&logoColor=white"/>
     </a>
  
