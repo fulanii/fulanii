@@ -7,12 +7,14 @@
 - Check out: [`About Me`](https://www.yassineissoufou.com/#about-me) [`Skills`](https://yassineissoufou.com/#skills) [`Projects`](https://yassineissoufou.com/#projects) [`Resume`](https://yassineissoufou.com/resume)
 - Learning FullStack Engineering, with a Backend focus.
 - Iterested in `Web Development` `Quality Assurance` & `Data related fields`
-    
-    <a href="mailto:yassine@yassineissoufou.com">
-      <img src="https://custom-icon-badges.demolab.com/badge/Reach Out-4c4c51?style=for-the-badge&logo=link&logoColor=white"/>
-    </a>
+- `Emai: yassine@yassineissoufou.com`
  
 <!-- 
+
+ <a href="mailto:yassine@yassineissoufou.com">
+   <img src="https://custom-icon-badges.demolab.com/badge/Reach Out-4c4c51?style=for-the-badge&logo=link&logoColor=white"/>
+ </a>
+    
 I'm currently working toward becoming a Data Analysis, I'll be using my github to post all my projects, school computer science stuff and, notes from courses and certifications I take. In addition, I've also created a discord server feel free to join us bellow.
 
     
