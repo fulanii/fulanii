@@ -7,7 +7,7 @@
 - Check out: [`About Me`](https://www.yassineissoufou.com/#about-me) [`Skills`](https://yassineissoufou.com/#skills) [`Projects`](https://yassineissoufou.com/#projects) [`Resume`](https://yassineissoufou.com/resume)
 - Learning FullStack Engineering, with a Backend focus.
 - Iterested in `Web Development` `Quality Assurance` & `Data related fields`
-- `Emai: yassine@yassineissoufou.com`
+- `Reach out: yassine@yassineissoufou.com`
  
 <!-- 
 
