@@ -2,9 +2,9 @@
  <img src="https://user-images.githubusercontent.com/68094236/201511312-8e93c2c6-4110-46c3-9915-158a0958088b.gif">
 </p>
 
-#### I'm a self taught Software Engineer, soon to be in school for Computer Science.
+#### I'm a self taught Software Engineer [`@Ctrl F2`]([https://yassineissoufou.com/#skills](https://github.com/ctrlf2))
 
-- Check out: [`Skills`](https://yassineissoufou.com/#skills) [`Projects`](https://yassineissoufou.com/#projects) [`Resume`](https://yassineissoufou.com/resume)
+- Check out: [`Skills`](https://yassineissoufou.com/#skills) [`Projects`](https://yassineissoufou.com/#projects) [`Resume`](https://yassineissoufou.com/resume) [`My Links`](https://yassineissoufou.com/links)
 - Learning FullStack Engineering, with a Backend focus.
 - Iterested in `Web Development` `Quality Assurance` & `Data related fields`
 - `Reach out: yassine@yassineissoufou.com`
