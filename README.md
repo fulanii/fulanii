@@ -7,4 +7,4 @@
 - Check out: [`Skills`](https://yassinecodes.dev/#skills) [`Projects`](https://yassinecodes.dev/#projects) [`Resume`](https://yassinecodes.dev/resume) [`My Links`](https://yassinecodes.dev/links)
 - Learning FullStack Engineering, with a Backend focus.
 - Iterested in `Web Development` `Quality Assurance` & `Data related fields`
-- `Reach out: coming soon`
+- `Reach out: yassine@yassineissoufou.com`
