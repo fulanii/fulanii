@@ -3,7 +3,7 @@
 </p>
 
 - Check out: [`Skills`](https://yassinecodes.dev/#skills) [`Projects`](https://yassinecodes.dev/#projects) [`Resume`](https://yassinecodes.dev/resume) [`My Links`](https://yassinecodes.dev/links) [`Hire Me`](https://yassinecodes.dev/hire)
-- Full Stack Developer specializing in backend systems with Python/Django/FastAPI.
-- I build frontends with React, backend workflows, automation systems, and no/low-code integrations.
+- Backend Developer specializing in Python, Django, and FastAPI.
+- Proficient in building automation workflows, no-code integrations. And occasionally frontends in React.
 - Exploring AI, indie projects, and a solopreneur at heart.
 - Reach out: `yassine@yassinecodes.dev`
