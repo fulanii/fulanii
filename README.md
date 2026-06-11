@@ -26,7 +26,7 @@ Currently:
 ### Find me around the web
 - 🌐 Portfolio: https://yassinecodes.dev
 - 📄 Resume: https://yassinecodes.dev/resume
-- 💼 Hire Me: https://yassinecodes.dev/hire
+- 💼 Hire Me: https://yassinecodes.dev/contact
 - 🔗 Links: https://yassinecodes.dev/links
 - 📫 Email: [yassine@yassinecodes.dev](mailto:yassine@yassinecodes.dev)
 
