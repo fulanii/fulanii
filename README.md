@@ -2,9 +2,6 @@
   <img src="https://user-images.githubusercontent.com/68094236/201511312-8e93c2c6-4110-46c3-9915-158a0958088b.gif">
 </p>
 
-I'm a self-taught Backend Engineer focused on building reliable software with Python, Django, and FastAPI. Over the past few years I've built SaaS products, automation systems, internal tools, APIs, and real-time applications—taking projects from initial idea to production deployment.
-
-
 Backend Engineer focused on building software that solves real problems. Over the past few years, I've built and deployed SaaS products, automation systems, and Rest APIs using Python, Django, FastAPI, and PostgreSQL. I'm also a self-taught developer who learned by building real apps, working with clients, and shipping software in public.
 
 #### Currently
