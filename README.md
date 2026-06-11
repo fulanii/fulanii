@@ -16,7 +16,7 @@ Backend Engineer focused on building software that solves real problems. Over th
 * FastAPI
 * PostgreSQL
 * REST APIs & Automation
-* React/vite Frontends (with ai tools, when I absolutely have to )
+* React Frontends (with ai tools, when I absolutely have to )
 
 
 Always happy to connect with developers, founders, and people building interesting things.
