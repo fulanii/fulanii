@@ -18,10 +18,8 @@ Backend Engineer focused on building software that solves real problems. Over th
 * REST APIs & Automation
 * React/vite Frontends (with ai tools, when I absolutely have to )
 
-### Find me around the web
-- 🌐 Portfolio: https://yassinecodes.dev
-- 📄 Resume: https://yassinecodes.dev/resume.pdf
-- 🔗 Links: https://yassinecodes.dev/links
-- 📫 Email: [yassine@yassinecodes.dev](mailto:yassine@yassinecodes.dev)
 
 Always happy to connect with developers, founders, and people building interesting things.
+
+- 📄 Resume: https://yassinecodes.dev/resume.pdf
+- 📫 Email: [yassine@yassinecodes.dev](mailto:yassine@yassinecodes.dev)
