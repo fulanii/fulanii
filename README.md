@@ -7,7 +7,8 @@ Backend Engineer focused on building software that solves real problems. Over th
 #### Currently
 * Running [Flow Theory AI](https://www.flowtheoryai.com/) where I build backend systems and automations for clients
 * Helping with QA, testing and sometimes development at [CtrlF2](https://wwww.ctrlf2.com)
-* Learning more about distributed systems, testing, and software architecture
+* Learning more about software architecture
+* Working on the AWS Certified Solutions Architect - Associate
 
 ### What I work with
 * Python
