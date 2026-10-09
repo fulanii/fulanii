@@ -2,7 +2,7 @@
   <img src="https://user-images.githubusercontent.com/68094236/201511312-8e93c2c6-4110-46c3-9915-158a0958088b.gif">
 </p>
 
-Backend Engineer focused on building software that solves real problems. Over the past few years, I've built and deployed SaaS products, automation systems, and Rest APIs using Python, Django, FastAPI, and PostgreSQL. I'm also a self-taught developer who learned by building real apps, working with clients, and shipping software in public.
+Backend engineer with 3+ years of experience building software that solves real problems. I’ve built and deployed SaaS products, automation systems, and REST APIs using Python, Django, FastAPI, and PostgreSQL, working with clients and shipping in public.
 
 #### Currently
 * Finishing up [CodifyLive](https://github.com/fulanii/codify-live-backend)
