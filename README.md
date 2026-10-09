@@ -9,7 +9,6 @@ Backend engineer with 3+ years of experience building software that solves real 
 * Working on [Data Structures and Algorithms](https://github.com/fulanii/dsa)
 * Working on [AWS Certified Solutions Architect - Associate](https://github.com/fulanii/aws-saa)
 * Running [Flow Theory AI](https://www.flowtheoryai.com/) where I build backend systems and automations for clients
-* Helping with QA, testing and sometimes development at [CtrlF2](https://wwww.ctrlf2.com)
 
 ### What I work with
 * Python
